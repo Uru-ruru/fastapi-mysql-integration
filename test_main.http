@@ -1,0 +1,11 @@
+# Test your FastAPI endpoints
+
+GET http://{{host}}/
+Accept: application/json
+
+###
+
+GET http://{{host}}/user/1
+Accept: application/json
+
+###

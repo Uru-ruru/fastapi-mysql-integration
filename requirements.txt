@@ -1,0 +1,16 @@
+anyio==3.6.1
+click==8.1.3
+fastapi~=0.78.0
+idna==3.3
+pydantic==1.9.0
+PyMySQL==1.0.2
+python-dotenv==0.20.0
+sniffio==1.2.0
+starlette>=0.20.0
+typing_extensions==4.2.0
+uvicorn==0.17.6
+redis>=4.3.1
+pip>=22.1
+wheel>=0.37.1
+setuptools>=62.2.0
+packaging>=21.3
